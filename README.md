@@ -172,7 +172,7 @@ Contributions are welcome! 🚀
 ---
 
 <div align="center">
-  <sub>Built with 💻 & ☕ by Priyank Solanki. © 2025 All Rights Reserved.</sub>
+  <sub>Built with 💻 & ☕ by Mayukh Jain. © 2025 All Rights Reserved.</sub>
 </div>
 
 ---
